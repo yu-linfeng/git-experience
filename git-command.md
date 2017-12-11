@@ -1,2 +1,2 @@
-git add . 	#添加
-git commit m "log"	#提交到本地仓库
+git add . 	#add
+git commit m "log"	#commit local repo
